@@ -1,8 +1,8 @@
 # Superstore-Sales-Analysis
-**Introduction**
+# **Introduction**
 This project provides an Exploratory Data Analysis (EDA) of a Superstore sales dataset, uncovering trends in sales performance, customer behavior, and profitability. The analysis involves data cleaning, feature engineering, visualizations, and a basic linear regression model to predict profit based on sales features.
 
-**Project Overview**
+# **Project Overview**
 
 This analysis answers key business questions, including:
 

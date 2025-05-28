@@ -6,10 +6,10 @@ This project provides an Exploratory Data Analysis (EDA) of a Superstore sales d
 
 # This analysis answers key business questions, including:
 
-# - Which regions and states generate the most sales and profit?
-# - What product categories and sub-categories perform best?
-# - How do discounts impact profitability?
-# - What customer segments are most valuable?
+ - Which regions and states generate the most sales and profit?
+ - What product categories and sub-categories perform best?
+ - How do discounts impact profitability?
+ - What customer segments are most valuable?
 
 # **Dataset**
 The dataset includes sales transactions with columns like:

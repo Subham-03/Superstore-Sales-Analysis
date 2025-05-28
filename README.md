@@ -42,13 +42,14 @@ The project includes various insightful visualizations:
  The Superstore Sales Analysis revealed insightful trends in sales, profit, and customer behavior. 
  
 Key findings include:
- • Sales generally increase over time with noticeable monthly fluctuations.
- • Office Supplies contribute the highest sales, while Technology yields higher profit 
+-  Sales generally increase over time with noticeable monthly fluctuations.
+- Office Supplies contribute the highest sales, while Technology yields higher profit 
 margins.
- • The West region shows the highest profitability.
- • Discounts negatively correlate with profit, suggesting over-discounting may harm 
+- The West region shows the highest profitability.
+- Discounts negatively correlate with profit, suggesting over-discounting may harm 
 profitability.
- • A basic regression model indicates that sales and discount can moderately predict profit, 
+- A basic regression model indicates that sales and discount can moderately predict profit, 
 but more features and refined modeling may improve performance.
+
  This analysis can support strategic decisions in inventory management, pricing, and marketing.
 

@@ -24,11 +24,11 @@ This project provides an Exploratory Data Analysis (EDA) of a Superstore sales d
 - **Matplotlib & seaborn** – for data visualization
 
 # **Analysis & Insights**
-Sales Trends: Sales generally increase over time with monthly fluctuations.
-Category Performance: Office Supplies have the highest sales, while Technology yields better profit margins.
-Regional Profitability: The West region shows the highest profitability.
-Discount Impact: Discounts negatively correlate with profit, suggesting over-discounting may hurt earnings.
-Predicting Profit: A basic regression model indicates that sales and discounts moderately predict profitability.
+- Sales Trends: Sales generally increase over time with monthly fluctuations.
+- Category Performance: Office Supplies have the highest sales, while Technology yields better profit margins.
+- Regional Profitability: The West region shows the highest profitability.
+- Discount Impact: Discounts negatively correlate with profit, suggesting over-discounting may hurt earnings.
+- Predicting Profit: A basic regression model indicates that sales and discounts moderately predict profitability.
 
 # **Visualizations**
 The project includes various insightful visualizations:

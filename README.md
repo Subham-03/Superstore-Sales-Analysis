@@ -12,10 +12,10 @@ This project provides an Exploratory Data Analysis (EDA) of a Superstore sales d
  - What customer segments are most valuable?
 
 # **Dataset**
-  The dataset includes sales transactions with columns like:
-  Order Details (Order ID, Date, Ship Mode)
-  Customer Information (Name, Segment, Location)
-  Product Data (Category, Sub-Category, Sales, Discount, Profit)
+   The dataset includes sales transactions with columns like:
+   Order Details (Order ID, Date, Ship Mode)
+   Customer Information (Name, Segment, Location)
+   Product Data (Category, Sub-Category, Sales, Discount, Profit)
 
 # **Tools & Libraries Used**
  Python

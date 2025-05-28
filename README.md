@@ -19,10 +19,9 @@ This project provides an Exploratory Data Analysis (EDA) of a Superstore sales d
   - Product Data (Category, Sub-Category, Sales, Discount, Profit)
 
 # **Tools & Libraries Used**
-- Python
-- pandas – for data manipulation
-- matplotlib & seaborn – for data visualization
-- scikit-learn – for building a simple regression model
+- **Python**
+- **Pandas** – for data manipulation
+- **Matplotlib & seaborn** – for data visualization
 
 # **Analysis & Insights**
 Sales Trends: Sales generally increase over time with monthly fluctuations.

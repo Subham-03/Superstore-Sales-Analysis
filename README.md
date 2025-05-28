@@ -11,26 +11,26 @@ This analysis answers key business questions, including:
 - How do discounts impact profitability?
 - What customer segments are most valuable?
 
-**Dataset**
+# **Dataset**
 The dataset includes sales transactions with columns like:
 Order Details (Order ID, Date, Ship Mode)
 Customer Information (Name, Segment, Location)
 Product Data (Category, Sub-Category, Sales, Discount, Profit)
 
-**Tools & Libraries Used**
+# **Tools & Libraries Used**
 Python
 pandas – for data manipulation
 matplotlib & seaborn – for data visualization
 scikit-learn – for building a simple regression model
 
-**Analysis & Insights**
+# **Analysis & Insights**
 Sales Trends: Sales generally increase over time with monthly fluctuations.
 Category Performance: Office Supplies have the highest sales, while Technology yields better profit margins.
 Regional Profitability: The West region shows the highest profitability.
 Discount Impact: Discounts negatively correlate with profit, suggesting over-discounting may hurt earnings.
 Predicting Profit: A basic regression model indicates that sales and discounts moderately predict profitability.
 
-**Visualizations**
+# **Visualizations**
 The project includes various insightful visualizations:
 Sales trends over time
 Sales by category & sub-category
@@ -38,7 +38,7 @@ Profit distribution across regions
 Discount vs Profit analysis
 Heatmap of profit by category & region
 
-**Conclusion**
+# **Conclusion**
  The Superstore Sales Analysis revealed insightful trends in sales, profit, and customer behavior. 
 Key findings include:
  • Sales generally increase over time with noticeable monthly fluctuations.

@@ -40,6 +40,7 @@ The project includes various insightful visualizations:
 
 # **Conclusion**
  The Superstore Sales Analysis revealed insightful trends in sales, profit, and customer behavior. 
+ 
 Key findings include:
  • Sales generally increase over time with noticeable monthly fluctuations.
  • Office Supplies contribute the highest sales, while Technology yields higher profit 
